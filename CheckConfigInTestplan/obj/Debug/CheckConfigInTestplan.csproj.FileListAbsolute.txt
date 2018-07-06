@@ -1,0 +1,8 @@
+D:\Edward\CheckConfigInTestplan\CheckConfigInTestplan\bin\Debug\CheckConfigInTestplan.exe
+D:\Edward\CheckConfigInTestplan\CheckConfigInTestplan\bin\Debug\CheckConfigInTestplan.pdb
+D:\Edward\CheckConfigInTestplan\CheckConfigInTestplan\obj\Debug\CheckConfigInTestplan.csprojResolveAssemblyReference.cache
+D:\Edward\CheckConfigInTestplan\CheckConfigInTestplan\obj\Debug\CheckConfigInTestplan.frmCollectSetting.resources
+D:\Edward\CheckConfigInTestplan\CheckConfigInTestplan\obj\Debug\CheckConfigInTestplan.Properties.Resources.resources
+D:\Edward\CheckConfigInTestplan\CheckConfigInTestplan\obj\Debug\CheckConfigInTestplan.csproj.GenerateResource.Cache
+D:\Edward\CheckConfigInTestplan\CheckConfigInTestplan\obj\Debug\CheckConfigInTestplan.exe
+D:\Edward\CheckConfigInTestplan\CheckConfigInTestplan\obj\Debug\CheckConfigInTestplan.pdb

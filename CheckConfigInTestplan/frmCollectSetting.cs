@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace CheckConfigInTestplan
 {
-    public partial class Form1 : Form
+    public partial class frmCollectSetting : Form
     {
-        public Form1()
+        public frmCollectSetting()
         {
             InitializeComponent();
         }
